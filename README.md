@@ -1,4 +1,5 @@
-## Hi there 👋
+
+![stupid](https://files.catbox.moe/1ud6gg.png)
 
 <!--
 **kufuutaro/kufuutaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+if i learn a new program/language/whatever 99% of the time it's for izaya in some way
