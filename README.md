@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-if i learn a new program/language/whatever 99% of the time it's for izaya in some way
